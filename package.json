@@ -20,5 +20,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "lightningcss-linux-x64-gnu": "^1.30.1"
+  }
 }
