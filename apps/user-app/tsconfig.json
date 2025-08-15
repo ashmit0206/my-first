@@ -6,6 +6,10 @@
       "@repo/db": ["../../packages/db/index.ts"],
       "@repo/db/*": ["../../packages/db/*"]
     },
+    "types": [
+      "node",
+      "bcrypt"
+    ],
     "plugins": [
       {
         "name": "next"
